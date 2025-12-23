@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Zenthoriax 👋
 
-<!--
-**Zenthoriax/Zenthoriax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 AI Engineer | Math & Linear Algebra Enthusiast
+I thrive at the intersection of complex mathematics and clean code. I believe that understanding the "math under the hood" is what makes a great AI Engineer.
 
-Here are some ideas to get you started:
+- 🎓 **Education:** 2nd Year B.Tech CSE (AI & ML)
+- 🔭 **Currently working on:** Predictive modeling and honing my skills in Deep Learning.
+- 🌱 **Learning:** Advanced AI Research methodologies for my future Master's.
+- 💬 **Ask me about:** Linear Algebra, Matrix operations, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+**Languages & Tools:**
+- **Core:** Python, SQL, Java (Basics)(DSA)
+- **AI/ML:** TensorFlow, PyTorch, NumPy, Pandas
+- **Data:** Data Visualization & Statistical Modeling
+
+---
+
+### 🚀 Featured Project: SIH 2025 Groundwater Predictor
+Developed a Machine Learning model to predict future groundwater levels using real-time data.
+- **Achievement:** 92% Accuracy.
+- **Focus:** Data preprocessing and predictive analytics.
+
+---
+
+### 📫 How to reach me:
+www.linkedin.com/in/jeevananthan-senthilkumar-48b814325 [LinkedIn] | jeevananthanrasipuram9806@gmail.com [Mail]
