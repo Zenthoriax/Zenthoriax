@@ -25,4 +25,4 @@ Developed a Machine Learning model to predict future groundwater levels using re
 ---
 
 ### 📫 How to reach me:
-www.linkedin.com/in/jeevananthan-senthilkumar-48b814325 [LinkedIn] | jeevananthanrasipuram9806@gmail.com [Mail]
+www.linkedin.com/in/jeevananthan-senthilkumar-48b814325 [LinkedIn] | jeevananthan9806@gmail.com [Mail]
