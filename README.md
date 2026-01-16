@@ -20,7 +20,6 @@ I thrive at the intersection of complex mathematics and clean code. I believe th
 
 ### 🚀 Featured Project: SIH 2025 Groundwater Predictor
 Developed a Machine Learning model to predict future groundwater levels using real-time data.
-- **Achievement:** 92% Accuracy.
 - **Focus:** Data preprocessing and predictive analytics.
 
 ---
