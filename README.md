@@ -3,7 +3,7 @@
 ### 🤖 AI Engineer | Math & Linear Algebra Enthusiast
 I thrive at the intersection of complex mathematics and clean code. I believe that understanding the "math under the hood" is what makes a great AI Engineer.
 
-- 🎓 **Education:** 2nd Year B.Tech CSE (AI & ML)
+- 🎓 **Education:** 3rd Year B.Tech CSE (AI & ML)
 - 🔭 **Currently working on:** Predictive modeling and honing my skills in Deep Learning.
 - 🌱 **Learning:** Advanced AI Research methodologies for my future Master's.
 - 💬 **Ask me about:** Linear Algebra, Matrix operations, and Python.
@@ -25,4 +25,4 @@ Developed a Machine Learning model to predict future groundwater levels using re
 ---
 
 ### 📫 How to reach me:
-www.linkedin.com/in/jeevananthan-senthilkumar-48b814325 [LinkedIn] | jeevananthan9806@gmail.com [Mail]
+www.linkedin.com/in/jeevananthan-senthilkumar-48b814325 [LinkedIn] | jeevananthanrasipuram9806@gmail.com [Mail]
